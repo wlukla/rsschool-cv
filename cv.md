@@ -29,3 +29,19 @@ I'm International Economics student in KPI (Kyiv, Ukraine). My current life goal
 * Problem solving
 * Accountability
 * Willingness to learn
+### Code examples
+##### Hello world project: 
+As GOOGLE said about it:
+>  It's the best website we've ever seen
+```javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+ <h1>Hello World</h1>
+</body>
+</html>
+```

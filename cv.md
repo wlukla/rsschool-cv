@@ -45,3 +45,6 @@ As GOOGLE said about it:
 </body>
 </html>
 ```
+### Experience
+* (freecodecamp)[https://www.freecodecamp.org/wlukla] (projects)
+* (Kaggle)[https://www.kaggle.com/wlukla] (competitions)

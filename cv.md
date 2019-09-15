@@ -52,3 +52,8 @@ As GOOGLE said about it:
 * (freecodecamp)[https://www.freecodecamp.org/wlukla] (courses)
 * (htmlacademy)[https://htmlacademy.ru/profile/id778163] (courses)
 * (codecademy)[https://www.codecademy.com/profiles/wlukla] (courses)
+### English
+My current English level is B2+. But as Pete Rose said:
+> My father taught me that the only way you can make good at anything is to practice, and then practice some more.
+
+So I have not stopped on something I've already achieved and learn English almost every day. Mostly I heve speaking practice at university, I travel from time to time also.

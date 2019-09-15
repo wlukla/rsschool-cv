@@ -46,12 +46,12 @@ As GOOGLE said about it:
 </html>
 ```
 ### Experience
-* [freecodecamp](https://www.freecodecamp.org/wlukla] (projects)
-* [Kaggle](https://www.kaggle.com/wlukla] (competitions)
+* [freecodecamp](https://www.freecodecamp.org/wlukla] - projects
+* [Kaggle](https://www.kaggle.com/wlukla] - competitions
 ### Education
-* [freecodecamp](https://www.freecodecamp.org/wlukla)(courses)
-* [htmlacademy](https://htmlacademy.ru/profile/id778163) (courses)
-* [codecademy](https://www.codecademy.com/profiles/wlukla) (courses)
+* [freecodecamp](https://www.freecodecamp.org/wlukla) - courses
+* [htmlacademy](https://htmlacademy.ru/profile/id778163) - courses
+* [codecademy](https://www.codecademy.com/profiles/wlukla) - courses
 ### English
 My current English level is B2+. But as Pete Rose said:
 > My father taught me that the only way you can make good at anything is to practice, and then practice some more.

@@ -35,7 +35,8 @@ I'm International Economics student in KPI (Kyiv, Ukraine). My current life goal
 ##### Hello world project: 
 As GOOGLE said about it:
 >  It's the best website we've ever seen
-```javascript
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,6 +48,7 @@ As GOOGLE said about it:
 </body>
 </html>
 ```
+
 ### Experience
 * [freecodecamp](https://www.freecodecamp.org/wlukla) - projects
 * [Kaggle](https://www.kaggle.com/wlukla) - competitions

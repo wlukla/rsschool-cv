@@ -1,1 +1,1 @@
-# rsschool-cv
+https://wlukla.github.io/rsschool-cv/cv

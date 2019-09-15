@@ -1,5 +1,5 @@
 # Best CV ever :sunglasses:	
-## Danilochkin Vladislav
+## Vladislav Danilochkin
 ### Contact me
 
 | Resource 	| Adress                                                                    	|

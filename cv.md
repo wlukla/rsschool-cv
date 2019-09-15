@@ -48,3 +48,7 @@ As GOOGLE said about it:
 ### Experience
 * (freecodecamp)[https://www.freecodecamp.org/wlukla] (projects)
 * (Kaggle)[https://www.kaggle.com/wlukla] (competitions)
+### Education
+* (freecodecamp)[https://www.freecodecamp.org/wlukla] (courses)
+* (htmlacademy)[https://htmlacademy.ru/profile/id778163] (courses)
+* (codecademy)[https://www.codecademy.com/profiles/wlukla] (courses)

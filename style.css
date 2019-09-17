@@ -5,6 +5,12 @@ body {
   font-family: "Montserrat", "Arial", sans-serif;
 }
 
+.contact-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .contact-table, tr, td, th {
   border: 1px solid #000000;
 }

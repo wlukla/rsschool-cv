@@ -1,0 +1,47 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+  font-family: Montserrat, sans-serif;
+}
+
+.contact-table, tr, td, th {
+  border: 1px solid #000000;
+}
+
+.contact-table td {
+  min-width: 150px;
+  padding: 2px 10px 2px 10px;
+}
+
+.contact-table th {
+  background-color: #D3D3D3;
+}
+
+blockquote {
+  border-left: 5px solid #000000;
+  line-height: 30px;
+  padding-left: 20px;
+  font-style: italic;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills-container article {
+  width: 27%;
+  border: 1px solid #000000;
+  padding: 1.67em;
+  border-radius: 5px;
+}
+
+.hello-world pre{
+  margin-left: 70px;
+  padding: 0 20px 0 20px;
+  width: fit-content;
+  border: 1px solid#FFA07A;
+  border-radius: 3px;
+  background-color:#FFFFF0;
+  color: #8B0000;
+}

@@ -22,10 +22,10 @@ I'm International Economics student in KPI (Kyiv, Ukraine). My current life goal
 * English (B2+)
 * Russian (native speaker)
 * Ukrainian (native speaker)
-* German (beginne, currently learning)
+* German (beginner, currently learning)
 ##### Soft Skills
 * Communicational skills
-* Team-workig
+* Team-working
 * Patience
 * Open-mindedness
 * Problem solving

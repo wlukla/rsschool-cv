@@ -1,0 +1,59 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+
+  font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.contact-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.contact-table, tr, td, th {
+  border: 1px solid #000000;
+}
+
+.contact-table td {
+  min-width: 150px;
+  padding: 2px 10px;
+}
+
+.contact-table th {
+  background-color: #D3D3D3;
+}
+
+blockquote {
+  padding-left: 20px;
+
+  line-height: 30px;
+  font-style: italic;
+
+  border-left: 5px solid #000000;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills-container article {
+  width: 27%;
+  padding: 1.67em;
+
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.hello-world pre{
+  width: fit-content;
+  margin-left: 70px;
+  padding: 10px 20px;
+
+  color: #8B0000;
+  
+  background-color:#FFFFF0;
+  border: 1px solid#FFA07A;
+  border-radius: 3px;
+}
